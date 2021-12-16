@@ -1,14 +1,4 @@
-<p><img src=”https://user-images.githubusercontent.com/9152618/146370821-d07deb2b-4f68-4d6b-b7f3-5c574ac297e9.jpg" alt=”banner”></p>
-
-<h1 align="center" background-color:"black">Hello, I'm Bernadette</h1>
-<h3 align="center">An artist and coder</h3>
-
-- 🌱 I’m currently learning **JavaScript via javascript30**
-
-- 💬 Ask me about **Ruby on Rails**
-
-- 📫 How to reach me **hello@luluillu.de**
-
+![bernadettes_readme_banner](https://user-images.githubusercontent.com/9152618/146372664-b5248951-5768-4881-9236-122536cbd14a.jpg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bernadette lulu diemer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernadette lulu diemer" height="30" width="40" /></a>
