@@ -1,4 +1,4 @@
-![bernadettes_readme_banner](https://user-images.githubusercontent.com/9152618/146372664-b5248951-5768-4881-9236-122536cbd14a.jpg)
+![bernadettes_readme_banner](https://user-images.githubusercontent.com/9152618/146373395-e78513ef-f344-409b-be2c-ed069b2ab252.jpg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bernadette lulu diemer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernadette lulu diemer" height="30" width="40" /></a>
