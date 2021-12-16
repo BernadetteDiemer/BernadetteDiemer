@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Bernadette</h1>
+<h1 align="center" background-color:"black">Hello, I'm Bernadette</h1>
 <h3 align="center">An artist and coder</h3>
 
 - 🌱 I’m currently learning **JavaScript via javascript30**
