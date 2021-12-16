@@ -1,3 +1,5 @@
+<img src=”https://user-images.githubusercontent.com/9152618/146370821-d07deb2b-4f68-4d6b-b7f3-5c574ac297e9.jpg" alt=”banner”>
+
 <h1 align="center" background-color:"black">Hello, I'm Bernadette</h1>
 <h3 align="center">An artist and coder</h3>
 
